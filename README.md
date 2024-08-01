@@ -1,1 +1,1 @@
-# Artificial-Intelligence-Cource
+# Artificial Intelligence Course
